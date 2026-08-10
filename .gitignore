@@ -1,0 +1,4 @@
+*.o
+.vscode/launch.json
+.vscode/tasks.json
+port_scanner
